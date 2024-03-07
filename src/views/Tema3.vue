@@ -222,14 +222,14 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1.
+          h5 Figura 2.
           span #[i Organismos del Sistema Nacional del Deporte]
         //- figcaption.customCaption.mb-3 <b>Figura 1.</b> 
         //-   .text-normal <i>Organismos del Sistema Nacional del Deporte</i>
         .titulo-quinto.color-acento-botones
           h4 Organismos del Sistema Nacional del Deporte
         figure(data-aos='flip-right')
-          img(src='@/assets/curso/t3-i6.svg' alt='Organigrama Sistema Nacional del Deporte')
+          img(src='@/assets/curso/t3-i6.svg' alt='En la figura 2 se muestran los organismos públicos y privados, que existen a nivel Nacional, departamental y distrital en Colombia, los cuales fomentan el desarrollo de la práctica del deporte, la recreación y el aprovechamiento del tiempo libre.')
 
 
 
@@ -269,7 +269,7 @@
           .row(titulo="Resolución 1150 de 2019")
             .col-md-12.mb-4.mb-md-0
               p Por la cual se adoptan los requisitos para pertenecer al órgano de administración, comisión técnica y de juzgamiento de los organismos deportivos que integran el Sistema Nacional del Deporte.
-              a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3m7XclW" target="_blank")
+              a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://www.derechodeportivocolombiano.com.co/repository/resoluciones-026resolucion1150de2019.php" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
@@ -278,7 +278,7 @@
           .row(titulo="Resolución 824 de 2019")
             .col-md-12.mb-4.mb-md-0
               p Por la cual se establece el procedimiento para otorgar, actualizar, renovar y revocar el reconocimiento deportivo de los clubes deportivos que integran el Sistema Nacional del Deporte en el Distrito Capital.
-              a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3njcvHC" target="_blank")
+              a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=90280" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto

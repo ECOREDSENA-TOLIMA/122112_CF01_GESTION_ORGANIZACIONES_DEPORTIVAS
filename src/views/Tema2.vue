@@ -34,10 +34,10 @@
         p  Abordar los conceptos generales sobre gestión, administración, organización deportiva y proceso administrativo aplicado al deporte permite identificar la interacción de condiciones que van no solo desde lo deportivo, sino también desde lo económico, contable y legal, véalo a continuación:
     .row.mb-5.justify-content-center
       .col-lg-8
-        //- figcaption.customCaption.mb-3 <b>Figura 1</b> <br>
-        //-   span.text-normal  Concepto y principios de gestión deportiva y proceso administrativo
+        figcaption.customCaption.mb-3 <b>Figura 1.</b> <br>
+          span.text-normal  <i>Concepto y principios de gestión deportiva y proceso administrativo</i> 
         figure(data-aos='flip-up')
-          img(src='@/assets/curso/t2-i2.png' alt='imagen decorativa')
+          img(src='@/assets/curso/t2-i2.png' alt='En la figura 1 se muestran los principales conceptos y principios para llevar a cabo una adecuada administración deportiva, teniendo en cuenta áreas económicas, contables y legales.')
 
     TabsA.color-acento-botones.mb-5
       .tarjeta.color-acento-contenido.p-4(titulo="Organización deportiva")
