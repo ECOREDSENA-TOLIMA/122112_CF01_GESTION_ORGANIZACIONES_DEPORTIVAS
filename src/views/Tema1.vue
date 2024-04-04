@@ -125,7 +125,7 @@
             h4 Deporte de iniciación o iniciación deportiva
             p Se da cuando el practicante es capaz de tener una operatividad básica, sobre el conjunto global de la actividad deportiva, en la situación real de competición o juego, es decir, comienza a aprender de forma específica una práctica deportiva concreta, debiéndose entender esta como un período que favorece y facilita una especialización.
             
-      .tarjeta.color-acento-contenido.p-4(titulo="Deporte de iniciación o iniciación deportiva")
+      .tarjeta.color-acento-contenido.p-4(titulo="Deporte adaptado")
         .row
           .col-lg-4
             figure.slideInLeft

@@ -31,7 +31,7 @@
         figure(data-aos='slide-right')
           img(src='@/assets/curso/t2-ic1.svg' alt='imagen decorativa')
       .col-lg-10
-        p  Abordar los conceptos generales sobre gestión, administración, organización deportiva y proceso administrativo aplicado al deporte permite identificar la interacción de condiciones que van no solo desde lo deportivo, sino también desde lo económico, contable y legal, véalo a continuación:
+        p  Abordar los conceptos generales sobre gestión, administración, organización deportiva y proceso administrativo aplicado al deporte permite identificar la interacción de condiciones que van no solo desde lo deportivo, sino también desde lo económico, contable y legal, como se presenta a continuación:
     .row.mb-5.justify-content-center
       .col-lg-8
         figcaption.customCaption.mb-3 <b>Figura 1.</b> <br>
@@ -49,7 +49,7 @@
             figure.slideInLeft
               img(src='@/assets/curso/t2-i3.png' alt='imagen decorativa')
 
-      .tarjeta.color-acento-botones.p-4(titulo="Proceso administrativo")
+      .tarjeta.color-acento-contenido.p-4(titulo="Proceso administrativo")
         .row
           .col-lg-8
             h4 Proceso administrativo
@@ -189,7 +189,7 @@
           .tarjeta.color-acento-contenido.p-3(x="0%" y="20%")
             p Se establecen objetivos, se identifican procesos conforme a las políticas y estrategias organizacionales.
           .tarjeta.color-acento-contenido.p-3(x="100%" y="20%")
-            p Implementación de cambios y acciones de mejora planteadas en el ciclo anterior, enfocadas sl cumplimiento de los objetivos organizacionales.
+            p Implementación de cambios y acciones de mejora planteadas en el ciclo anterior, enfocadas al cumplimiento de los objetivos organizacionales.
           .tarjeta.color-acento-contenido.p-3(x="0%" y="78%")
             p Se establecen propuestas de mejora.             
           .tarjeta.color-acento-contenido.p-3(x="100%" y="78%")

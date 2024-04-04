@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 En resumen, se destacó la importancia de definir correctamente los conceptos de deporte, recreación y actividad física debido a sus características dinámicas y coyunturales. Se abordaron sus conceptos generales y clasificación, y se resaltó la relevancia de la administración deportiva para satisfacer las demandas de los clientes y mejorar continuamente. Además, se hizo énfasis en la necesidad de conocer la legislación y normativa deportiva, así como en la conformación de las organizaciones deportivas en Colombia dentro del Sistema Nacional del Deporte. A continuación, veamos al respecto un mapa que resume esto:
+    p.mb-5 En resumen, se destacó la importancia de definir correctamente los conceptos de deporte, recreación y actividad física debido a sus características dinámicas y coyunturales. Se abordaron sus conceptos generales y clasificación, y se resaltó la relevancia de la administración deportiva para satisfacer las demandas de los clientes y mejorar continuamente. Además, se hizo énfasis en la necesidad de conocer la legislación y normativa deportiva, así como en la conformación de las organizaciones deportivas en Colombia dentro del Sistema Nacional del Deporte. A continuación, se presenta un mapa que resume esto:
 
     .row.justify-content-center
       .col-lg-10.mb-5
