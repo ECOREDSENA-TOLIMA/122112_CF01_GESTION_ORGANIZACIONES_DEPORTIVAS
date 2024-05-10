@@ -259,46 +259,46 @@ export default {
       autores: [
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesoría metodológico y pedagógico',
+          cargo: 'Asesor Metodológico y Pedagógico',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Camilo Andrés Aramburo Parra',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Paola Andrea Quintero Aguilar',
-          cargo: 'Diseño instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Asesoría metodológica y pedagógica',
+          cargo: 'Asesor Metodológico y Pedagógico',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y evaluadora instruccional',
+          cargo: 'Diseñadora y Evaluadora Instruccional',
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Gloria Lida Alzate Suarez',
-          cargo: 'Adecuación instruccional',
+          cargo: 'Adecuación Instruccional',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la información - Regional Distrito Capital',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Asesoría metodológica y pedagógica',
+          cargo: 'Asesora Metodológica y Pedagógica',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la información - Regional Distrito Capital',
         },
         {
           nombre: 'Viviana Esperanza Herrera Quiñonez',
-          cargo: 'Evaluación instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -308,76 +308,76 @@ export default {
       autores: [
         {
           nombre: 'Francisco José Lizcano Reyes		',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro:
             'Centro Industrial del Diseño y la Manufactura -Regional Santander',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
-          cargo: 'Soporte organizacional',
+          cargo: 'Soporte Organizacional',
           centro: 'Centro de Comercio y Servicios -Regional Tolima',
         },
         {
           nombre: 'Jorge Armando Villamizar Moreno',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador Web',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Fabian Robles Méndez',
-          cargo: 'Desarrollo Front-End',
+          cargo: 'Desarrollador Front-End',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andrés Mauricio Santaella Ochoa',
-          cargo: 'Soporte front-end',
+          cargo: 'Soporte Front-end',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Zuleidy María Ruíz Torres',
-          cargo: 'Producción audiovisual',
+          cargo: 'Productor Audiovisual',
           centro: 'Centro de Comercio y Servicios- Regional Tolima',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
-          cargo: 'Producción audiovisual',
+          cargo: 'Productor Audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura- Regional Santander',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
-          cargo: 'Producción audiovisual',
+          cargo: 'Productor Audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura- Regional Santander',
         },
         {
           nombre: 'Camilo Andrés Bolaño Rey',
-          cargo: 'Producción audiovisual',
+          cargo: 'Productor Audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura- Regional Santander',
         },
         {
           nombre: 'Andrés Felipe Herrera Roldan',
-          cargo: 'Producción audiovisual',
+          cargo: 'Productor Audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura- Regional Santander',
         },
         {
           nombre: 'Yenny Patricia Ulloa Villamizar',
-          cargo: 'Validación de diseño y contenido',
+          cargo: 'Validador de Diseño y Contenido',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Fernando Botero Mendoza',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador Web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima ',
         },
         {
           nombre: 'Sebastian Trujillo Afanador',
-          cargo: 'Desarrollo Fullstack',
+          cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima ',
         },
       ],
@@ -386,18 +386,18 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima ',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima ',
         },
         {
-          nombre: 'Jorge Bustos Ortiz',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Jorge Bustos Gomez',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima ',
         },
       ],

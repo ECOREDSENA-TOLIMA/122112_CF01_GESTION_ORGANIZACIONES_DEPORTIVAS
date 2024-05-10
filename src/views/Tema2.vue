@@ -40,26 +40,18 @@
           img(src='@/assets/curso/t2-i2.png' alt='En la figura 1 se muestran los principales conceptos y principios para llevar a cabo una adecuada administración deportiva, teniendo en cuenta áreas económicas, contables y legales.')
 
     TabsA.color-acento-botones.mb-5
-      .tarjeta.color-acento-contenido.p-4(titulo="Organización deportiva")
+
+      .tarjeta.color-acento-contenido.p-4(titulo="1. Gestión")
         .row
           .col-lg-8
-            h4 Organización deportiva
-            p Slack & Parent (2006) definen la organización deportiva como una entidad social, con objetivos claros y límites bien definidos envuelta en la industria del deporte, según lo cual se debe entender la organización deportiva como una industria en donde hay unos objetivos y metas claras que se deben alcanzar mediante diferentes procesos administrativos.
+            h4 Gestión
+            p.mb-3  Se refiere a todo el conjunto de acciones, procedimientos y operaciones que se deberán cumplir en cada objetivo administrativo, para lograr un grado máximo de funcionamiento y una mayor optimización en la entidad deportiva. Con la continua evolución del deporte, demanda de servicios de calidad, incremento de la competitividad empresarial, requerimientos legales y normativos, captación y optimización de recursos, entre muchas otras necesidades que se tienen, se debe tener una óptima gestión del proceso administrativo de dichas empresas.
+            p.mb-3  El proceso administrativo cumple con etapas que, aunque son similares en todas las empresas no se puede decir que son estándar en su aplicación, ya que cada organización deberá actuar según el contexto, objetivos y estrategias organizacionales.  
           .col-lg-4
             figure.slideInLeft
-              img(src='@/assets/curso/t2-i3.png' alt='imagen decorativa')
+              img(src='@/assets/curso/t2-i6.png' alt='imagen decorativa')
 
-      .tarjeta.color-acento-contenido.p-4(titulo="Proceso administrativo")
-        .row
-          .col-lg-8
-            h4 Proceso administrativo
-            p.mb-3  Hace referencia a la administración de la organización en general (planear, organizar, dirigir, ejecutar y controlar), así como también, el uso e implementación de todas aquellas habilidades técnicas, humanas y conceptuales que necesite el administrador para llevar a cabo y desarrollar una gestión efectiva.
-            p.mb-3  Asimismo, va adquiriendo un carácter deportivo cuando dichas habilidades de administración y gestión son aplicadas en aquellas entidades e instituciones deportivas que lo requieran para llevar a cabo su objetivos, igualmente para cuando sea necesario llevar acabo el desarrollo de programas, proyectos y eventos deportivos, de recreación, de actividad física, ocio y de aprovechamiento del tiempo libre.
-          .col-lg-4
-            figure.slideInLeft
-              img(src='@/assets/curso/t2-i4.png' alt='imagen decorativa')
-
-      .tarjeta.color-acento-contenido.p-4(titulo="Administración")
+      .tarjeta.color-acento-contenido.p-4(titulo="2. Administración")
         .row
           .col-lg-8
             h4 Administración
@@ -68,15 +60,26 @@
             figure.slideInLeft
               img(src='@/assets/curso/t2-i5.png' alt='imagen decorativa')
 
-      .tarjeta.color-acento-contenido.p-4(titulo="Gestión")
+      .tarjeta.color-acento-contenido.p-4(titulo="3. Organización deportiva")
         .row
           .col-lg-8
-            h4 Gestión
-            p.mb-3  Se refiere a todo el conjunto de acciones, procedimientos y operaciones que se deberán cumplir en cada objetivo administrativo, para lograr un grado máximo de funcionamiento y una mayor optimización en la entidad deportiva. Con la continua evolución del deporte, demanda de servicios de calidad, incremento de la competitividad empresarial, requerimientos legales y normativos, captación y optimización de recursos, entre muchas otras necesidades que se tienen, se debe tener una óptima gestión del proceso administrativo de dichas empresas.
-            p.mb-3  El proceso administrativo cumple con etapas que aunque son similares en todas las empresas no se puede decir que son estándar en su aplicación, ya que cada organización deberá actuar según el contexto, objetivos y estrategias organizacionales.  
+            h4 Organización deportiva
+            p Slack & Parent (2006) definen la organización deportiva como una entidad social, con objetivos claros y límites bien definidos envuelta en la industria del deporte, según lo cual se debe entender la organización deportiva como una industria en donde hay unos objetivos y metas claras que se deben alcanzar mediante diferentes procesos administrativos.
           .col-lg-4
             figure.slideInLeft
-              img(src='@/assets/curso/t2-i6.png' alt='imagen decorativa')
+              img(src='@/assets/curso/t2-i3.png' alt='imagen decorativa')
+
+      .tarjeta.color-acento-contenido.p-4(titulo="4. Proceso administrativo")
+        .row
+          .col-lg-8
+            h4 Proceso administrativo
+            p.mb-3  Hace referencia a la administración de la organización en general (planear, organizar, dirigir, ejecutar y controlar), así como también, el uso e implementación de todas aquellas habilidades técnicas, humanas y conceptuales que necesite el administrador para llevar a cabo y desarrollar una gestión efectiva.
+            p.mb-3  Asimismo, va adquiriendo un carácter deportivo cuando dichas habilidades de administración y gestión son aplicadas en aquellas entidades e instituciones deportivas que lo requieran para llevar a cabo sus objetivos, igualmente, para cuando sea necesario el desarrollo de programas, proyectos y eventos deportivos, de recreación, de actividad física, ocio y de aprovechamiento del tiempo libre.
+          .col-lg-4
+            figure.slideInLeft
+              img(src='@/assets/curso/t2-i4.png' alt='imagen decorativa')
+
+      
     p.mb-5  La siguiente tabla permite identificar de forma clara las etapas, definiciones y aspectos claves que se deben tener presentes para establecer un correcto proceso administrativo.
 
     .titulo-sexto.color-acento-contenido

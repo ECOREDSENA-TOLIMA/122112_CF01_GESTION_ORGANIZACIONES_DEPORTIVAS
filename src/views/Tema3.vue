@@ -92,7 +92,7 @@
                           p https://bit.ly/3GdVmrt
                   li
                     i.fas.fa-check
-                    p <b>Recomendaciones mundiales sobre actividad física para la salud (Organización Mundial de la Salud (2020).</b> Recomendaciones generadas con el objetivo general de proporcionar a los formuladores de políticas a nivel nacional y regional orientación sobre la relación dosis-respuesta entre frecuencia, duración, intensidad, tipo y cantidad total de actividad física y prevención de las enfermedades no transmisibles.<br>
+                    p <b>Recomendaciones mundiales sobre actividad física para la salud (Organización Mundial de la Salud [2020]).</b> Recomendaciones generadas con el objetivo general de proporcionar a los formuladores de políticas a nivel nacional y regional orientación sobre la relación dosis-respuesta entre frecuencia, duración, intensidad, tipo y cantidad total de actividad física y prevención de las enfermedades no transmisibles.<br>
                       a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/3BaP6gq" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
@@ -154,7 +154,7 @@
                           p https://bit.ly/3Edn9qp     
                   li
                     i.fas.fa-check
-                    p <b>Ley 1355 de 2009.</b>  Por medio de la cual se define la obesidad y las enfermedades crónicas no transmisibles asociadas a esta como una prioridad de salud pública y se adoptan medidas para su control, atención y prevención.<br>
+                    p <b>Ley 1355 de 2009.</b>  Por medio de la cual se define la obesidad y las enfermedades crónicas no transmisibles asociadas a ésta como una prioridad de salud pública y se adoptan medidas para su control, atención y prevención.<br>
                       a.anexo.mb-2.mb-lg-0.my-3.col-lg-6(href="https://bit.ly/2Zh3JRW" target="_blank")
                         .anexo__icono
                           img(src="@/assets/template/icono-link.svg")
@@ -203,7 +203,7 @@
     br
     #t_3_2.titulo-segundo.color-secundario
       h2 3.2  Estructura nacional del deporte
-    p.mb-4.text-bold.text-blue  La estructura del deporte en Colombia está regida por la Constitución Política de Colombia de 1991, en el Artículo 52 en uno de sus apartes dice “…Se reconoce el derecho de todas las personas a la recreación, a la práctica del deporte y el aprovechamiento del tiempo libre. El Estado fomentará las actividades e inspeccionará, vigilará y controlará las organizaciones deportivas y recreativas, cuya estructura y propiedad deberán ser democráticas”.
+    p.mb-4.text-bold.text-blue  La estructura del deporte en Colombia está regida por la Constitución Política de Colombia de 1991, en el Artículo 52 en uno de sus apartes dice “… Se reconoce el derecho de todas las personas a la recreación, a la práctica del deporte y el aprovechamiento del tiempo libre. El Estado fomentará las actividades e inspeccionará, vigilará y controlará las organizaciones deportivas y recreativas, cuya estructura y propiedad deberán ser democráticas”.
 
     .row.mb-5
       .col-lg-7

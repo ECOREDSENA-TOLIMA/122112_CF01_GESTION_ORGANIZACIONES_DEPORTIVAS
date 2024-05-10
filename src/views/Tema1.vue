@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/t1-i1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Al definir los términos de deporte, recreación y actividad física, son numerosas las características y nociones que vienen a la mente, las cuales no se deben confundir en sus divergencias a la hora de ser definidas. Lo anterior, unido a la evolución que se le ha dado tanto en tiempo como en las diferentes sociedades, ha hecho que su definición tenga un carácter dinámico y coyuntural. <b>Es por esto que, inicialmente se abordarán los conceptos generales sobre el deporte, recreación, actividad física y ejercicio físico, teniendo en cuenta sus diferencias, características y orientaciones.</b>
+            p.mb-0 Al definir los términos de deporte, recreación y actividad física, son numerosas las características y nociones que vienen a la mente, las cuales no se deben confundir en sus divergencias a la hora de ser definidas. Lo anterior, unido a la evolución que se le ha dado tanto en tiempo como en las diferentes sociedades, ha hecho que su definición tenga un carácter dinámico y coyuntural. <b>Es por lo que, inicialmente se abordarán los conceptos generales sobre el deporte, recreación, actividad física y ejercicio físico, teniendo en cuenta sus diferencias, características y orientaciones.</b>
     
 
     #t_1_1.titulo-segundo.color-secundario
