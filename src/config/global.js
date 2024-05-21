@@ -250,7 +250,7 @@ export default {
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -261,45 +261,45 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor Metodológico y Pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Camilo Andrés Aramburo Parra',
           cargo: 'Experto Temático',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Antioquia - Centro de Servicios de Salud',
         },
         {
           nombre: 'Paola Andrea Quintero Aguilar',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Asesor Metodológico y Pedagógico',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Julia Isabel Roberto',
           cargo: 'Diseñadora y Evaluadora Instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Gloria Lida Alzate Suarez',
           cargo: 'Adecuación Instruccional',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesora Metodológica y Pedagógica',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Viviana Esperanza Herrera Quiñonez',
           cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -310,75 +310,75 @@ export default {
           nombre: 'Francisco José Lizcano Reyes		',
           cargo: 'Responsable del Equipo',
           centro:
-            'Centro Industrial del Diseño y la Manufactura -Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Soporte Organizacional',
-          centro: 'Centro de Comercio y Servicios -Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Jorge Armando Villamizar Moreno',
           cargo: 'Diseñador Web',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Luis Fabian Robles Méndez',
           cargo: 'Desarrollador Front-End',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Andrés Mauricio Santaella Ochoa',
           cargo: 'Soporte Front-end',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Zuleidy María Ruíz Torres',
           cargo: 'Productor Audiovisual',
-          centro: 'Centro de Comercio y Servicios- Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Productor Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura- Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Productor Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura- Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Camilo Andrés Bolaño Rey',
           cargo: 'Productor Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura- Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Andrés Felipe Herrera Roldan',
           cargo: 'Productor Audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura- Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Yenny Patricia Ulloa Villamizar',
           cargo: 'Validador de Diseño y Contenido',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Luis Fernando Botero Mendoza',
           cargo: 'Diseñador Web',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -388,17 +388,17 @@ export default {
         {
           nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluador de Contenidos Inclusivos y Accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Jorge Bustos Gomez',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
