@@ -275,7 +275,7 @@ export default {
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Asesor Metodológico y Pedagógico',
+          cargo: 'Revisor Metodológico y Pedagógico',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
@@ -286,7 +286,7 @@ export default {
         },
         {
           nombre: 'Gloria Lida Alzate Suarez',
-          cargo: 'Adecuación Instruccional',
+          cargo: 'Adecuador Instruccional',
           centro:
             'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la información',
         },
